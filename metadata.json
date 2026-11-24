@@ -1,0 +1,8 @@
+{
+  "name": "Project E-Modul TEP 2026",
+  "description": "Portal pengumpulan tugas dan katalog karya e-modul mahasiswa Mata Kuliah Bahan Pembelajaran — S1 Teknologi Pendidikan, Universitas Negeri Malang.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
